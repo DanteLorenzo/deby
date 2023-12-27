@@ -1,0 +1,327 @@
+title-text: ""
+title-color: "#55ff55"
+desktop-color: "#000000"
+terminal-left: "0%"
+terminal-top: "0%"
+terminal-width: "100%"
+terminal-height: "100%"
+
++ boot_menu {
+    left = 75%
+    width = 25%
+    top = 80%
+    height = 8%
+    item_color = "#aaaaaa"
+    selected_item_color = "#ffffff"
+    item_height = 20
+    item_padding = 0
+    item_spacing = 5
+    scrollbar_width = 0
+}
+
++ vbox {
+  left = 10%
+  width = 100%
+  top = 5%
+  height = 100%
+  + label {
+    text = "+++++++++++++++++                              ::                                      ......:::::::::..                                                            :::::::::::++++++++++++++++                     "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "++++++++++++                                    ::                              ..:::::::::::::::::::::::::::.                                                      :::::::::::++++++++++++++++                 "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "+++++++                                                                    ..:**::::::::::::::::::::::::::::::**::.                                                 '''''''''''++++++++++++++++                 "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "++                                                         ::            .:****::::::::::::::::::::::::::::::::::****:.                                                                    ***+  "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "+                   +'::::::::::::::::::::                            .:**..::::::::::::::::::::::  ::::::::::::::::**::                                                                     '. "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "+                   +'::::::::::::::::::::                           .:::::      ::::::::****88**88****::::::::      ::****                                                                  '.  "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                    +':::::::::::::::::.                           .::'         ::..**::::**88888888008888****::        ::**                                                                 '.   "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                    +':::::::::::::::::.                          .:::            ::**::8888888888880088**..::::    ::::::::                                                                    "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                    +':::::::::::::::::.                        .::    ::::::::::::::**::::008800888888****..::::::::      ::::                  +++++++++++++++++++....::                                                "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                    +':::::::::::::::::.                       ::::  ::****::****::::::**::**888888**88**::::::****::::::    ::::                ::::+++++++++++++++....::                                                "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                    +':                                       '::    ::****8800**::::::**::::88****::::**::::**8888****::  ::::::                ::::+++++++++++++++....::                                                "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                    +':                                         ::    ::**88888888**::::::::************::::::******8888**..  ::::::                                                              "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                    +':                                                 ::********::::       '+::::+''        ::******88**        ::::                                                            "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                    +':                ::                           ************                                  ************::::::::                                                            "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                    +':                                         ::::**88****                                    ::    **8888****::::::::                                                          "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                    +':                                   ::    ::::******::::  ::..     ::..od8888bo ::             ::********::::::::                                                     +++ "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                                                        .::       ::****::  ::::::..:::::: d8888888888b :..::    ..::  ******        ::                                                     +++ "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                                                        ::    ::::::******:::::::::::: *: 8888888888888b :* :::::::::::****::::::::::::                                                     +++"
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "'''''''''                                                       ::**88**::::::' ::::: d8: 88888888888888 :8b :::::..::::::******::    ::                                                    +++  "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "'''''''''                                                         ::****::..::::::::* 88: 8888888888888P :88 88::::::::::::....::                                                           +++   "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "'''''''''                                               ::::::::::::::**::::::::::::* 88* 'Y8888888888P  *88 ***::::::::::::::::::::::::::                              ....                +++  "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "'''''''''       :::::::::::::::++++++++++++::           ::    ::  ::..::    ::::::*** Y888* '°Y8888P°' *d88' ***::::::    ::::::        ::                              ::::                      "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                :::++++++....::++++++++++++::               ::::            ::::****** 88800o........o88P'  8****::::::            ::                                   ::::                       "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":               :::++++++....::++++++++++++::               ::::**::        ::::**8888*  'Y888888888888P'  *8888**::          ::**::                                                              "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":               :::++++++::::::++++++++++++::             .:::**88**          ********88**o. ''°°°°'' .o**8888******::        ::******::::                                                          "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":               :::++++++::::::::::::::::::::            .****::****           '++' Y088****boooooooood******8P**  ':           .****::****                                                          "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":               :::::::::::::::      .:                 .:****::::**::                    ''**********::                    ::::::::**::::                                                        "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":               :::::::::::::::      .:                 ****                                  ****::                         '::'     ':::                                                        "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                    .:               .:::              :                       ::                       :            .:'                                                        "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                    .:               :::::::.          :.       *+o*     .:    ::    :.     *o+*       .:           .::'                                                          "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                    .:               ::  ::::  ::      :::.             .::  .:::    ::              .:::      :.  ::::                                                          "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                    .:               ::  ::::  ::      :::::::.     .:::'  ':::** .:: ':::::.    .:**::::      ::. :::'                                                          "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                    .:               ':  ':::::        ::::00880b  8888::::::::**::::::::8888  888888::::        ::::                                                            "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                    .:   :.:.:.:.          ::::  ::    ::..**8888b.8888**::::::**::::::::8888.d88888::'   .:::  ::::                    ...........                                         "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                    .:                     ':::::::::    ::..888888**88**::::::88::::****88**888888..::    ::'  ::::::                  ++++++++++:                                          "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                    .:                      '::::  ::    ':::::**888888**::::::88::  ::**88**88**::::::    ::    :::::.                 ++++++++++:                                         "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                    .:                   :.  ':::          ::::::**888888::::        ::**88******::::'        .::  ::::                 ++++++++++:           :.                            "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                    .:                   :::. '::::        ':::::****8888            ::8800****:::::'       .::::  ::::                 ++++++++++'           :.                            "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                                         ::::  ::**::        ':::****8888**          888888++*'  :'        ::::::  ::::                                       :.                 "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                                         ':::  ::..**         '::::**888888**    ::**8888****::::          ::**:'  :::'                                       :.                 "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                                           ::  ':::**::         '::******88888888888888****:::::'        ::::::  .:::                                         :.                 "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                                           ':    ::**::            ':::::::.. '::' :::::::::::'          ****::  ::::                                         :.                 "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                                            '    ******              ':                                  **::::                                               :.                 "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                      :.:.:.:.:.:.:.:.:.:.        ******                  .:**880088**:.                  ****::    ::                                        :.                 "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = ":                                                                 ::****::            .:::::::::::::::::::.  .:.         ::****                                                :.                 "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                                                                    +++++**          :::::'                .::'          ******                                                :.                  "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                                                              ::.   ******            ':  ::  .:::::.     ::'           ******                                                                    "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                                                                  ..::****              ':  ::888800::                  ****::                                                                    "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "     :::::::::::.                                                 ::::****                  ::::88::::                  ****::::                                                                  "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "     :::::::::::.                                             .:  ::..++**                     '::'                     ****                                                                      "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "     :::::::::::.                                             ::  ::::::**                                              **..::::                                                                  "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "     :::::::::::.                                             ':    ::::**                                              *'  ::                                                                    "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "     :::::::::::.                                                   ':::::                                              ' .:'     ::                                                              "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "     :::::::::::.                                             .:::.   ::'                                                 ::    ::::                                                              "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "     :::::::::::::::::::::::                                  :::::::::::::::::::::::::::::''''''''''                       ::  ::::::                                                              "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                                                              ::::::'                                                          ::::::                                                              "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "                                                              ::::::                                                            ::::                                                              "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "*******+++++............                                      ::::::                                                        ::  ::::                                                              "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+  + label {
+    text = "*******+++++............                                      ::::'                                                           ::  ..                                                              "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }  
+  + label {
+    text = "*******+++++............                                       :::'                                                           :  ..                                                               "
+    font = "Terminus-32"
+    color = "#aaaaaa"
+  }
+}
