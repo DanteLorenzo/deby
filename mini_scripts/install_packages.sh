@@ -27,7 +27,6 @@ packages=(
     net-tools
     macchanger
     gobuster
-    yt-dlp
     hashcat
     ansible
     remmina
@@ -38,10 +37,8 @@ packages=(
     pkg-config
     libssl-dev
     gimp
-    qbittorrent
     gparted
     netdiscover
-    telegram-desktop
     ncat
     nmap
     sqlmap
@@ -64,7 +61,6 @@ packages=(
     iftop
     john
     zsh
-    thunar
     clamav
     chiaki
     deluge
@@ -74,6 +70,9 @@ packages=(
     nikto
     nload
     openvpn
+    ffmpeg
+    haruna
+    simplescreenrecorder
 )
 
 # Install packages

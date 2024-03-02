@@ -44,6 +44,7 @@ mini_scripts=(
   ollama.sh
   steam.sh
   discord.sh
+  yt-dlp.sh
   pictures.sh
 )
 
