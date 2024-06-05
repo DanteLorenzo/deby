@@ -38,7 +38,7 @@ if [ $? -eq 0 ]; then
   log_info "Enabling and starting libvirtd service..."
   sudo systemctl enable libvirtd.service
   sudo systemctl start libvirtd.service
-
+  sudo virsh net-start default
   log_success "libvirtd service enabled and started successfully."
 else
   log_error "Failed to install QEMU and libvirt components. Check for errors above."

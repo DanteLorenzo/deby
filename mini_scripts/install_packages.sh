@@ -46,8 +46,6 @@ packages=(
     wireshark
     gnome-tweaks
     python3-pip
-    golang
-    timeshift
     podman
     resolvconf
     wireguard
@@ -73,6 +71,11 @@ packages=(
     ffmpeg
     haruna
     simplescreenrecorder
+    medusa
+    hydra-gtk
+    keepassxc
+    neofetch
+    
 )
 
 # Install packages
