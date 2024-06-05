@@ -35,6 +35,7 @@ mini_scripts=(
   docker.sh
   postman.sh
   librewolf.sh
+  brave.sh
   metasploit-framework.sh
   musikcube.sh
   qemu_kvm.sh
