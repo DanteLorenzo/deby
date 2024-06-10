@@ -31,7 +31,7 @@ if [ $? -eq 0 ]; then
 
   # Pull a specific version using Ollama
   log_info "Pulling a specific version using Ollama..."
-  ollama pull codellama:7b
+  ollama pull codestral
 
   # Check if the pull operation was successful
   if [ $? -eq 0 ]; then
